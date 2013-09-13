@@ -7,5 +7,5 @@
 
 ```
 heroku create
-git push heroku
+git push heroku master
 ```
