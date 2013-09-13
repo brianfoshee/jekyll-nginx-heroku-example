@@ -1,4 +1,3 @@
-# jekyll-nginx-heroku-example
 
 [Blog post here.] [blog]
 
