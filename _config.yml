@@ -1,0 +1,4 @@
+name: jekyll-nginx-heroku
+markdown: redcarpet
+pygments: true
+exclude: [config]
