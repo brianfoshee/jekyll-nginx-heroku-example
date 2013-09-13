@@ -1,4 +1,4 @@
 name: jekyll-nginx-heroku
 markdown: redcarpet
 pygments: true
-exclude: [config, LICENSE, README.md]
+exclude: [config, LICENSE, README.md, Procfile]
